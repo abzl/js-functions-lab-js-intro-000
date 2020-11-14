@@ -9,5 +9,5 @@ function happyHolidaysTo(name) {
 }
 
 function happyCustomHolidayTo(happyThanksgiving, name) {
-  return "Happy Thanksgiving, + name"
+  return "${holiday} + ${name}"
 }
