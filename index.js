@@ -11,4 +11,3 @@ function happyHolidaysTo(name) {
 function happyCustomHolidayTo(name) {
   return "Happy Thanksgiving, + name"
 }
-
